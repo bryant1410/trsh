@@ -8,23 +8,23 @@ The code is written in C++ and uses [Malva framework](https://themalvaproject.gi
 
 Example of distribution of containers in La Comercial neighborhood, Montevideo:
 
-![Example of distribution of containers in La Comercial neighborhood, Montevideo](img/contenedores_ejemplo.jpg)
+![Example of distribution of containers in La Comercial neighborhood, Montevideo](img/contenedores_ejemplo.png)
 
 Histogram of how long it takes to fill the containers:
 
-![Histogram of how long it takes to fill the containers](img/demanda_histograma.jpg)
+![Histogram of how long it takes to fill the containers](img/demanda_histograma.png)
 
 Performance of the algorithm varying some parameters:
 
-![Performance of the algorithm varying some parameters](img/poblacion_150.jpg)
+![Performance of the algorithm varying some parameters](img/poblacion_150.png)
 
 Fitness of the algorithm in different runs in CH04 zone:
 
-![Fitness of the algorithm in different runs in CH04 zone](img/fitness_ch04_histograma.jpg)
+![Fitness of the algorithm in different runs in CH04 zone](img/fitness_ch04_histograma.png)
 
 Route of the solution for Thursdays for CH04 zone:
 
-![Route of the solution for Thursdays for CH04 zone](img/ejemplo_jueves_ch04.jpg)
+![Route of the solution for Thursdays for CH04 zone](img/ejemplo_jueves_ch04.png)
 
 ## MPICH installation in Fedora
 
