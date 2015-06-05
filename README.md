@@ -10,9 +10,9 @@ Example of distribution of containers in La Comercial neighborhood, Montevideo:
 
 ![Example of distribution of containers in La Comercial neighborhood, Montevideo](img/contenedores_ejemplo.png)
 
-Histogram of how long it takes to fill the containers:
+Histogram of quantity of people assigned to containers:
 
-![Histogram of how long it takes to fill the containers](img/demanda_histograma.png)
+![Histogram of quantity of people assigned to containers](img/demanda_histograma.png)
 
 Performance of the algorithm varying some parameters:
 
