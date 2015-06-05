@@ -26,6 +26,12 @@ Route of the solution for Thursdays for CH04 zone:
 
 ![Route of the solution for Thursdays for CH04 zone](img/ejemplo_jueves_ch04.png)
 
+## Centroids of each block
+
+1. Get the coordinates of each city block using [MMQGIS](http://michaelminn.com/linux/mmqgis/) plugin.
+2. Calculate the centroid of each one.
+3. Convert them from EPSG:32721 - WGS 84 / UTM zone 21S (WGS 84 / UTM zone 21S (SRID=32721)) to WGS 84 (SRID=4326).
+
 ## MPICH installation in Fedora
 
 ### With root access
@@ -38,11 +44,9 @@ yum install mpich mpich-devel
 
 Download from [MPICH](https://www.mpich.org/) the RPM mpich and mpich-devel files. Then convert to cpio format and extract them. Merge them in the same folder. Then link to this folder from Malva. In order to find the MPICH headers when compiling, use environment variables and/or pass arguments (changing the Makefile).
 
-## Centroids of each block
+## Configuration of source code in Malva
 
-1. Get the coordinates of each city block using [MMQGIS](http://michaelminn.com/linux/mmqgis/) plugin.
-2. Calculate the centroid of each one.
-3. Convert them from EPSG:32721 - WGS 84 / UTM zone 21S (WGS 84 / UTM zone 21S (SRID=32721)) to WGS 84 (SRID=4326).
+To use the code, copy the `src` folder to the malva/rep folder.
 
 ## Useful resources
 
