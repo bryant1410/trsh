@@ -1,0 +1,46 @@
+// coordenadas del punto de salida (origen)
+// coordenadas del punto de llegada (destino)
+
+// cantidad de contenedores (n)
+// coordenadas del contenedor 0
+.
+.
+.
+// coordenadas del contenedor n-1
+
+// duración de ir desde origen hasta el contenedor 0
+.
+.
+.
+// duración de ir desde origen hasta el contenedor n-1
+
+// duración de ir desde el contenedor 0 hasta el destino
+.
+.
+.
+// duración de ir desde el contenedor n-1 hasta el destino
+
+// 0 1 duracion de ir desde contenedor 0 al 1
+// 0 2 duracion de ir desde contenedor 0 al 2
+.
+.
+.
+// 1 0 duracion de ir desde el contenedor 1 al 0
+// 1 2 duracion de ir desde el contenedor 1 al 2
+// 1 3 duracion de ir desde el contenedor 1 al 3
+.
+.
+.
+// n-1 n-2 duracion de ir desde el contenedor n-1 al n-2
+
+// duracion de recoger la basura de un contenedor
+
+// capacidad del contenedor 0
+.
+.
+.
+// capacidad del contenedor n-1
+
+// capacidad del camión
+
+// capacidad de compactación

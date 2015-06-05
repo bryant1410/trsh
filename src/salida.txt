@@ -1,0 +1,1209 @@
+./MainSeq newGA.cfg ../../ProblemInstances/ONEMAX-instances/onemax10.txt res/sol.txt
+[3;J[H[2J
+ Current State ---------------------------------------------
+
+Current trial: 1
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 10
+Current worst cost: 1
+Current Average cost: 5
+Current Standard Deviation: 1.68744
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 0
+
+ Current State ---------------------------------------------
+
+Current trial: 2
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 9
+Current worst cost: 1
+Current Average cost: 5.2
+Current Standard Deviation: 1.53821
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 0
+
+ Current State ---------------------------------------------
+
+Current trial: 2
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 9
+Current worst cost: 3
+Current Average cost: 6.18333
+Current Standard Deviation: 1.46706
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 332
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 332
+
+ Current State ---------------------------------------------
+
+Current trial: 2
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 9
+Current worst cost: 2
+Current Average cost: 6.86667
+Current Standard Deviation: 1.4198
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 634
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 634
+
+ Current State ---------------------------------------------
+
+Current trial: 2
+Current iteration: 3
+Current evaluations: 360
+Current best cost: 10
+Current worst cost: 4
+Current Average cost: 7.71667
+Current Standard Deviation: 1.15115
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 1
+Iteration best found in trial: 3
+Evaluations best found in trial: 360
+Time best found trial: 931
+Time spent in trial: 931
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 931
+
+ Current State ---------------------------------------------
+
+Current trial: 3
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 9
+Current worst cost: 1
+Current Average cost: 4.51667
+Current Standard Deviation: 1.72216
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 931
+
+ Current State ---------------------------------------------
+
+Current trial: 3
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 8
+Current worst cost: 3
+Current Average cost: 5.96667
+Current Standard Deviation: 1.19273
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 309
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 1240
+
+ Current State ---------------------------------------------
+
+Current trial: 3
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 9
+Current worst cost: 5
+Current Average cost: 6.93333
+Current Standard Deviation: 0.971922
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 623
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 1554
+
+ Current State ---------------------------------------------
+
+Current trial: 3
+Current iteration: 3
+Current evaluations: 360
+Current best cost: 9
+Current worst cost: 6
+Current Average cost: 7.68333
+Current Standard Deviation: 0.770025
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 954
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 1885
+
+ Current State ---------------------------------------------
+
+Current trial: 3
+Current iteration: 4
+Current evaluations: 460
+Current best cost: 9
+Current worst cost: 7
+Current Average cost: 8.01667
+Current Standard Deviation: 0.747689
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 1259
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 2190
+
+ Current State ---------------------------------------------
+
+Current trial: 3
+Current iteration: 5
+Current evaluations: 560
+Current best cost: 9
+Current worst cost: 7
+Current Average cost: 8.4
+Current Standard Deviation: 0.693798
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 1559
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 2490
+
+ Current State ---------------------------------------------
+
+Current trial: 3
+Current iteration: 6
+Current evaluations: 660
+Current best cost: 10
+Current worst cost: 7
+Current Average cost: 8.76667
+Current Standard Deviation: 0.532556
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 1
+Iteration best found in trial: 6
+Evaluations best found in trial: 660
+Time best found trial: 1877
+Time spent in trial: 1877
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 2808
+
+ Current State ---------------------------------------------
+
+Current trial: 4
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 9
+Current worst cost: 1
+Current Average cost: 5.1
+Current Standard Deviation: 1.66418
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 2808
+
+ Current State ---------------------------------------------
+
+Current trial: 4
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 9
+Current worst cost: 4
+Current Average cost: 6.55
+Current Standard Deviation: 1.46629
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 338
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 3146
+
+ Current State ---------------------------------------------
+
+Current trial: 4
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 9
+Current worst cost: 5
+Current Average cost: 7.56667
+Current Standard Deviation: 1.29362
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 672
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 3480
+
+ Current State ---------------------------------------------
+
+Current trial: 4
+Current iteration: 3
+Current evaluations: 360
+Current best cost: 9
+Current worst cost: 5
+Current Average cost: 8.33333
+Current Standard Deviation: 0.914417
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 1004
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 3812
+
+ Current State ---------------------------------------------
+
+Current trial: 4
+Current iteration: 4
+Current evaluations: 460
+Current best cost: 10
+Current worst cost: 7
+Current Average cost: 8.63333
+Current Standard Deviation: 0.688074
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 1
+Iteration best found in trial: 4
+Evaluations best found in trial: 460
+Time best found trial: 1313
+Time spent in trial: 1313
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 4121
+
+ Current State ---------------------------------------------
+
+Current trial: 5
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 8
+Current worst cost: 2
+Current Average cost: 5.16667
+Current Standard Deviation: 1.47484
+
+Trial: 
+Best cost trial: 8
+Worst cost trial: 2
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 4121
+
+ Current State ---------------------------------------------
+
+Current trial: 5
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 8
+Current worst cost: 4
+Current Average cost: 6.2
+Current Standard Deviation: 1.16153
+
+Trial: 
+Best cost trial: 8
+Worst cost trial: 2
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 379
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 4500
+
+ Current State ---------------------------------------------
+
+Current trial: 5
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 9
+Current worst cost: 4
+Current Average cost: 6.98333
+Current Standard Deviation: 0.929583
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 2
+Evaluations best found in trial: 260
+Time best found trial: 698
+Time spent in trial: 698
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 4819
+
+ Current State ---------------------------------------------
+
+Current trial: 5
+Current iteration: 3
+Current evaluations: 360
+Current best cost: 9
+Current worst cost: 4
+Current Average cost: 7.51667
+Current Standard Deviation: 0.965361
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 2
+Evaluations best found in trial: 260
+Time best found trial: 698
+Time spent in trial: 1012
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 5133
+
+ Current State ---------------------------------------------
+
+Current trial: 5
+Current iteration: 4
+Current evaluations: 460
+Current best cost: 10
+Current worst cost: 4
+Current Average cost: 8
+Current Standard Deviation: 1.07357
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 2
+Iteration best found in trial: 4
+Evaluations best found in trial: 460
+Time best found trial: 1348
+Time spent in trial: 1348
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 5469
+
+ Current State ---------------------------------------------
+
+Current trial: 6
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 8
+Current worst cost: 1
+Current Average cost: 5.1
+Current Standard Deviation: 1.50367
+
+Trial: 
+Best cost trial: 8
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 5469
+
+ Current State ---------------------------------------------
+
+Current trial: 6
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 9
+Current worst cost: 3
+Current Average cost: 6.23333
+Current Standard Deviation: 1.28045
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 333
+Time spent in trial: 333
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 5802
+
+ Current State ---------------------------------------------
+
+Current trial: 6
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 9
+Current worst cost: 4
+Current Average cost: 7.23333
+Current Standard Deviation: 1.18417
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 333
+Time spent in trial: 657
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 6126
+
+ Current State ---------------------------------------------
+
+Current trial: 6
+Current iteration: 3
+Current evaluations: 360
+Current best cost: 10
+Current worst cost: 5
+Current Average cost: 8.15
+Current Standard Deviation: 0.971195
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 1
+Iteration best found in trial: 3
+Evaluations best found in trial: 360
+Time best found trial: 941
+Time spent in trial: 941
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 6410
+
+ Current State ---------------------------------------------
+
+Current trial: 7
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 9
+Current worst cost: 2
+Current Average cost: 4.78333
+Current Standard Deviation: 1.5848
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 6410
+
+ Current State ---------------------------------------------
+
+Current trial: 7
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 9
+Current worst cost: 2
+Current Average cost: 6
+Current Standard Deviation: 1.65703
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 326
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 6736
+
+ Current State ---------------------------------------------
+
+Current trial: 7
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 10
+Current worst cost: 4
+Current Average cost: 7.11667
+Current Standard Deviation: 1.07501
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 2
+Iteration best found in trial: 2
+Evaluations best found in trial: 260
+Time best found trial: 609
+Time spent in trial: 609
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 7019
+
+ Current State ---------------------------------------------
+
+Current trial: 8
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 8
+Current worst cost: 2
+Current Average cost: 4.96667
+Current Standard Deviation: 1.49538
+
+Trial: 
+Best cost trial: 8
+Worst cost trial: 2
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 7019
+
+ Current State ---------------------------------------------
+
+Current trial: 8
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 9
+Current worst cost: 3
+Current Average cost: 5.65
+Current Standard Deviation: 1.42407
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 308
+Time spent in trial: 308
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 7327
+
+ Current State ---------------------------------------------
+
+Current trial: 8
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 9
+Current worst cost: 4
+Current Average cost: 6.26667
+Current Standard Deviation: 1.14783
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 308
+Time spent in trial: 643
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 7662
+
+ Current State ---------------------------------------------
+
+Current trial: 8
+Current iteration: 3
+Current evaluations: 360
+Current best cost: 9
+Current worst cost: 5
+Current Average cost: 6.83333
+Current Standard Deviation: 0.886178
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 308
+Time spent in trial: 938
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 7957
+
+ Current State ---------------------------------------------
+
+Current trial: 8
+Current iteration: 4
+Current evaluations: 460
+Current best cost: 9
+Current worst cost: 5
+Current Average cost: 7.43333
+Current Standard Deviation: 0.908839
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 308
+Time spent in trial: 1228
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 8247
+
+ Current State ---------------------------------------------
+
+Current trial: 8
+Current iteration: 5
+Current evaluations: 560
+Current best cost: 9
+Current worst cost: 5
+Current Average cost: 7.85
+Current Standard Deviation: 0.860134
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 308
+Time spent in trial: 1595
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 8614
+
+ Current State ---------------------------------------------
+
+Current trial: 8
+Current iteration: 6
+Current evaluations: 660
+Current best cost: 10
+Current worst cost: 5
+Current Average cost: 8.2
+Current Standard Deviation: 0.879137
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 2
+Iteration best found in trial: 6
+Evaluations best found in trial: 660
+Time best found trial: 1819
+Time spent in trial: 1819
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 8838
+
+ Current State ---------------------------------------------
+
+Current trial: 9
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 8
+Current worst cost: 2
+Current Average cost: 4.86667
+Current Standard Deviation: 1.51228
+
+Trial: 
+Best cost trial: 8
+Worst cost trial: 2
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 8838
+
+ Current State ---------------------------------------------
+
+Current trial: 9
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 9
+Current worst cost: 3
+Current Average cost: 6.06667
+Current Standard Deviation: 1.38841
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 2
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 245
+Time spent in trial: 245
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 9083
+
+ Current State ---------------------------------------------
+
+Current trial: 9
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 10
+Current worst cost: 4
+Current Average cost: 7.13333
+Current Standard Deviation: 1.33362
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 2
+Iteration best found in trial: 2
+Evaluations best found in trial: 260
+Time best found trial: 486
+Time spent in trial: 486
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 9324
+
+ Current State ---------------------------------------------
+
+Current trial: 10
+Current iteration: 0
+Current evaluations: 60
+Current best cost: 8
+Current worst cost: 1
+Current Average cost: 5.15
+Current Standard Deviation: 1.52743
+
+Trial: 
+Best cost trial: 8
+Worst cost trial: 1
+Iteration best found in trial: 0
+Evaluations best found in trial: 60
+Time best found trial: 0
+Time spent in trial: 0
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 9324
+
+ Current State ---------------------------------------------
+
+Current trial: 10
+Current iteration: 1
+Current evaluations: 160
+Current best cost: 9
+Current worst cost: 3
+Current Average cost: 6.73333
+Current Standard Deviation: 1.32597
+
+Trial: 
+Best cost trial: 9
+Worst cost trial: 1
+Iteration best found in trial: 1
+Evaluations best found in trial: 160
+Time best found trial: 232
+Time spent in trial: 232
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 9556
+
+ Current State ---------------------------------------------
+
+Current trial: 10
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 10
+Current worst cost: 5
+Current Average cost: 7.68333
+Current Standard Deviation: 1.06551
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 1
+Iteration best found in trial: 2
+Evaluations best found in trial: 260
+Time best found trial: 440
+Time spent in trial: 440
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 9764
+
+ Current State ---------------------------------------------
+
+Current trial: 10
+Current iteration: 2
+Current evaluations: 260
+Current best cost: 10
+Current worst cost: 5
+Current Average cost: 7.68333
+Current Standard Deviation: 1.06551
+
+Trial: 
+Best cost trial: 10
+Worst cost trial: 1
+Iteration best found in trial: 2
+Evaluations best found in trial: 260
+Time best found trial: 440
+Time spent in trial: 440
+
+Global: 
+Global best cost: 10
+Global worst cost: 1
+Trial best found: 1
+Iteration best found: 0
+Evaluations best found: 60
+Time best found: 0
+
+Current time spent (so far): 9764
+Solution:  1 1 1 1 1 1 1 1 1 1 Fitness: 10
+
+
+ :( ---------------------- THE END --------------- :) 

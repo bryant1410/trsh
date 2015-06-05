@@ -1,0 +1,39 @@
+﻿Descripción de shape: mvdzonaspg04f1
+Título: Población por zona 2004
+Autor: 	Instituto Nacional de Estadística - Unidad Estadística de la IMM
+Fecha del archivo: 	16-08-2007
+
+Descripcion:
+Censo de población y vivienda del año 2004 por zona censal.
+
+Estructura y descripción del archivo DBF
+Cantidad de campos: 25
+Cantidad de registros: 12054
+Tipo de geometría: POLYGON	
+
+Nombre 		Tipo 	Descripción
+AREA 		N 13,6 	Superficie en m2
+PERIMETER 	N 13,6 	Perímetro del área en metros lineales
+CODCOMP 	N 15 	Código compuesto: departamento, sección, segmento y zona
+DEPTO 		N 9 	Departamento
+LOCALIDAD 	N 12 	Código de la localidad
+SECCION 	N 9 	Sección Censal
+SEGMENTO 	N 11 	Segmento Censal
+ZONA 		N 6 	Zona Censal
+CCZ 		N 10 	Area administrativa de la IMM
+ASENTA 		C 8 	Asentamiento irregular
+TOT_VIV 	N 8 	Número total de viviendas en la Zona Censal
+VIV_PAR 	N 10 	Númerode viviendas particulares en la Zona Censal
+VIV_CO 		N 9 	Número de viviendas colectivas en la Zona Censal
+VP_OCUPAD 	N 12 	Número de viviendas particulares ocupadasen la Zona Censal
+VP_DESO 	N 9 	Número de viviendas particulares desocupadas en laZona Censal
+HOG_PAR 	N 11 	Número de hogares particulares en la Zona censal
+TOT_POB 	N 11 	Número de personas residiendo en la Zona Censal
+CAT_POB 	N 11 	Categoríascon el total de personas residiendo por Zona Censal
+ED_0_5 		N 10 	Personas entre 0y5años residiendo en la Zona Censal
+ED_6_14 	N 9 	Personas entre 6 y 14 años residiendo en la Zona Censal
+ED_15_24 	N 11 	Personas entre 15 y 24 años residiendoenlaZona Censal
+ED_25_64 	N 9 	Personas entre 25 y 64 años residiendo en la Zona Censal
+ED_65 		N 12 	Personas de 65 años y más residiendo en la Zona Censal
+CODSEG 		N 8 	Código compuesto: Departamento, Sección y Segmento Censal
+CODSEC 		N 13 	Código compuesto: Departamento y Sección Censal
