@@ -76,3 +76,16 @@ Useful resources, ordered by the phase of the project:
 * [R: Histograms](https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/hist.html)
 * [Lilliefors test for normality](http://in-silico.net/tools/statistics/lillieforstest)
 * [Mann-Whitney test](http://www.uv.es/ceaces/scrips/tablas/M-W0.htm)
+
+## Citation
+
+```bibtex
+@misc{trsh,
+  author = {Santiago Castro and Mat{\'{i}}as Mansilla},
+  title = {Resoluci{\'{o}}n del problema de recolecci{\'{o}}n de residuos utilizando algoritmos gen{\'{e}}ticos},
+  year = {2014},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/bryant1410/trsh}}
+}
+```
